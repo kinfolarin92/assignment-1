@@ -1,0 +1,85 @@
+/*oreyomi oluwatoyosi  8864154*/
+body{
+ width:auto;
+ font:  20px Arial, sans-serif;
+ padding: 20px;
+}
+
+.style {
+    border: solid; 
+    border-radius: 1em;
+    padding: 0.5em;
+    margin: 0.5em;  
+}
+
+h1{
+    color: blue;
+    font-variant: small-caps;
+}
+
+
+h2{
+    color: blue;
+    font-variant: small-caps;
+}
+
+
+main{
+    float: left;
+    width: 55vw;
+    padding: 10px;
+    margin: 10px;
+    clear: both;
+    
+}
+
+aside{
+    float: right;
+    width: 35vw;
+    padding: 10px;
+    margin: 10px; 
+}
+
+footer{
+    clear: both;
+}
+
+
+footer .a{
+    font-size: small;
+
+}
+
+footer p{
+
+    color: brown;
+}
+
+.mainimg{
+      border: solid;
+}
+.cap {
+    font-style: bold;
+    font-variant: small-caps;
+    
+}
+
+q{
+    font-family: cursive;
+    font-style: italic;
+    font-size: 23px;
+}
+
+ul  li{
+    line-height: 30px;
+    list-style: none;
+}
+ul > a href{
+text-decoration: none ;
+color: rgb(32, 220, 29);
+font-size: 24px;
+}
+
+aside :hover{
+color: rgb(206, 64, 64);
+}
